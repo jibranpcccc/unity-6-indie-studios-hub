@@ -4,10 +4,17 @@
     <title>Unity 6 Indie Studios Hub</title>
     <link>https://unity-6-indie-studios-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 06:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:32:05 GMT</lastBuildDate>
     <atom:link href="https://unity-6-indie-studios-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/unity-6-indie-studios-hub/#unity-6-indie-studios-hub-github-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:32:05 GMT</pubDate>
+      <description>Newly verified community added to Unity 6 Indie Studios Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>Unity 6 Indie Studios Hub Initial Release</title>
       <link>https://unity-6-indie-studios-hub.vercel.app/</link>
       <pubDate>Sat, 12 Sep 2026 06:02:45 GMT</pubDate>
